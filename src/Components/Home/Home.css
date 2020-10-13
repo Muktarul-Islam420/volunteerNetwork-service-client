@@ -1,0 +1,48 @@
+img{
+    height: 320px;
+    width: 270px;
+}
+
+.img{
+    position: relative;
+}
+
+.topbar{
+    margin: 70px auto;
+}
+
+
+.text-box{
+    height: 70px;
+    width:270px;
+    border-radius:15px;
+        position: absolute;
+        bottom: 0;
+        color: #fff;
+       
+       
+
+    }
+      
+ .title{
+    font-size:20px;
+    margin-top:15px;
+    text-align:center;
+ }   
+ .text-box:nth-child(even){
+    background: rgb(0, 204, 211);
+ }
+ .text-box:nth-child(even + 1){
+    background:  palegreen;
+ }
+ .text-box:nth-last-child(even) {
+    background: palegreen;
+  }
+  /* .text-box:nth-child(even) {
+    background: rgb(0, 204, 211);
+  }     */
+  .text-box:nth-child(even):hover {
+    background-image: linear-gradient(180deg, deeppink,tomato);
+  color: white;
+  cursor: pointer;
+}
