@@ -1,69 +1,69 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+welcome to [VOLUNTEER NETWORK SERVICE](https://volunteer-service-2ee59.web.app/)
 
-## Available Scripts
+#### Project name 
+<span style="color: green">  VOLUNTEER NETWORK SERVICE </span>
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
+This is a web application for web development organization , this is simple application for creative organization management.
+Live: [VOLUNTEER NETWORK SERVICE](https://volunteer-service-2ee59.web.app/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Logo
+Logo
+![alt text][logo]
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[logo]: https://img.techpowerup.org/201028/group-1329.png "Logo Title Text 2"
 
-### `npm test`
+## Technologies
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* HTML
+* CSS
+* JavaScript
+* React.JS
+* Bootstrap
+* React-router-dom
+* fontAwesome
+* firebase
+* Heroku
+* Node JS
+* netlify 
 
-### `npm run build`
+## Features
+#### This application provides feature 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Child Support
+##### Refuse Shelter
+##### Food Charity
+##### Host clothing swap
+##### Host a river clean-up 
+##### Clean water for children
+##### Good Education
+##### New books for child
+##### Host a study group
+##### Give seminar on driving safety
+##### Give IT help for local adult
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Screenshot
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[Screenshot](https://drive.google.com/drive/folders/1faWJm-QwckTnTWtlk5NrgVTFPudM3KJf?usp=sharing)
 
-### `npm run eject`
+## Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To run this application ,install it locally using npm:
+```bash
+$ cd ../lorem
+$ npm install
+$ npm start
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# ABOUT ME
+#### See details about me
+[Facebook](https://www.facebook.com/md.muktarulkhanakash)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Resume](https://drive.google.com/file/d/1X41QFDHFr8z2XFRPJzVo7Acig-WDUTkM/view)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[LinkedIn](https://www.linkedin.com/in/muktarul-khan-akash-r/)
 
-## Learn More
+[Github](https://github.com/Muktarul-Islam420)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# volunteer-network-service-client
+[Portfolio](https://www.linkedin.com/in/muktarul-khan-akash-r/)
