@@ -27,21 +27,15 @@ Logo
 * Heroku
 * Node JS
 * netlify 
+* mongoDB
 
 ## Features
-#### This application provides feature 
+### This application provides feature 
 
-##### Child Support
-##### Refuse Shelter
-##### Food Charity
-##### Host clothing swap
-##### Host a river clean-up 
-##### Clean water for children
-##### Good Education
-##### New books for child
-##### Host a study group
-##### Give seminar on driving safety
-##### Give IT help for local adult
+##### Authenticated user can choose available volunteer task and register for free. ##### MERN-stack web app, you have hassle free google sign in method. 
+##### You can show your registered task based on your email.
+##### Admin Dashboard / User Dashboard.
+##### Admin can create new volunteer task and can monitor whole system.
 
 ## Screenshot
 
@@ -60,10 +54,10 @@ $ npm start
 #### See details about me
 [Facebook](https://www.facebook.com/md.muktarulkhanakash)
 
-[Resume](https://drive.google.com/file/d/1X41QFDHFr8z2XFRPJzVo7Acig-WDUTkM/view)
+[Resume](https://drive.google.com/file/d/1DT1fDqtNxLNr6ZZnVaXL6eH0kI7vvlAW/view?usp=sharing)
 
 [LinkedIn](https://www.linkedin.com/in/muktarul-khan-akash-r/)
 
 [Github](https://github.com/Muktarul-Islam420)
 
-[Portfolio](https://www.linkedin.com/in/muktarul-khan-akash-r/)
+[Portfolio](https://muktarul.netlify.app/)
