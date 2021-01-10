@@ -54,7 +54,7 @@ $ npm start
 #### See details about me
 [Facebook](https://www.facebook.com/md.muktarulkhanakash)
 
-[Resume](https://drive.google.com/file/d/1DT1fDqtNxLNr6ZZnVaXL6eH0kI7vvlAW/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1dnbgK5hXlR1qhe2Q7vcC24wx9KM4txgr/view?usp=sharing)
 
 [LinkedIn](https://www.linkedin.com/in/muktarul-khan-akash-r/)
 
